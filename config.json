@@ -1,0 +1,17 @@
+{
+  "ownerNumber":  ["62895329348632@s.whatsapp.net","628811929177@s.whatsapp.net"],
+  "botName": "Loli - Bot",
+  "packname" : "Loli",
+  "author" : "NipBotz",
+  "Prefix" : "Multi",
+  "sessionName": "botindo",
+  "Mode": "Public",
+  "pathImg": "./media/bobi.jpg",
+  "fakeImg": "./media/fake.jpg",
+  "gamewaktu": 60,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 100,
+	"user": 15
+  }
+}
